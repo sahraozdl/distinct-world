@@ -1,5 +1,4 @@
 # distinct-world
-Distinct World
 Distinct World is a vibrant storytelling platform where users can write, share, and discover original stories across genres. Whether you're an aspiring author or an avid reader, Distinct World offers a creative space to connect through captivating narratives.
 
 Features;
